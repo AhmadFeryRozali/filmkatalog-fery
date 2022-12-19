@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     private MovieAdapter adapter;
     private SearchView searchView;
-    String API_KEY = "64e72914694f2c54b3d2e2c5b553944e";
+    String API_KEY = "2b79b2a35561dbf755df5daaee00c500";
     String LANGUAGE = "en-US";
     String CATEGORY = "popular";
     int PAGE = 1;
